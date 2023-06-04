@@ -1,0 +1,47 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Press Start 2P", cursive;
+    background-color: beige;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+    align-items: center;
+    margin: 2em auto 0 auto;
+}
+
+img {
+    width: 150px;
+}
+
+input {
+    margin-top: 2em;
+    border: none;
+    text-align: center;
+    font-family: "Press Start 2P", cursive;
+    font-size: 0.8em;
+    padding: 1em 2em;
+}
+
+input:hover {
+    background-color: rgb(255, 255, 227);
+}
+
+button {
+    margin-top: 0.8em;
+    border: none;
+    background-color: rgb(255, 103, 103);
+    color: white;
+    padding: 1em 2em;
+    font-family: "Press Start 2P", cursive;
+    font-size: 0.8em;
+    width: auto;
+}
+
+button:hover {
+    box-shadow: black;
+}

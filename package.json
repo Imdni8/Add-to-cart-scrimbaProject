@@ -1,0 +1,12 @@
+{
+  "name": "add-to-cart-scrimbaproject",
+  "version": "1.0.0",
+  "description": "I'm learning to use firebase and making PWA. But so far, I've learned NPM too!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Practise project"],
+  "author": "copied_from_Scrimba",
+  "license": "ISC"
+}
